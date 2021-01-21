@@ -1,0 +1,13 @@
+Computation time in seconds:              3080
+Computation steps:                        1.02647e+07
+Computation time in nanoseconds/step:     300101
+
+Simulated kilometers:                     8466.03
+Simulated Time in minutes:                8553.889167
+Simulated Time in hours:                  142.5648194
+
+Commutated lane changes:                  88343
+Commutated seen vehicles:                 139858191
+Vehicle average in simulation:            13.62520489
+Time between lane changes                 5.809553106
+Time between lane changes per vehicle:    79.15635138

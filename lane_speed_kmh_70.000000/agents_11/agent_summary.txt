@@ -1,0 +1,84 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%% SUMMARY %%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Summary of all iterations 
+
+Number of agents in this run: 11
+Iterations                    100
+
+%%%%%%%%%%%%%%%%%%%%%%%% TOTAL %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+TOTAL run result: 
+Computation time in seconds:              164321
+Computation steps:                        5.50472e+08
+Computation time in nanoseconds/step:     298510
+
+Simulated kilometers:                     473030
+Simulated Time in minutes:                458726.64
+Simulated Time in hours:                  7645.444
+
+Commutated lane changes:                  5548468
+Commutated seen vehicles:                 6545380132
+Vehicle average in simulation:            11.89048764
+Time between lane changes                 4.960576217
+Time between lane changes per vehicle:    58.9836702
+%%%%%%%%%%%%%%%%%%%%%%%% MINIMUM %%%%%%%%%%%%%%%%%%%%%%%%%%
+MINIMUM run result: 
+Computation time in seconds:              23
+Computation steps:                        3091
+Computation time in nanoseconds/step:     7650388.803
+
+Simulated kilometers:                     2.727912238
+Simulated Time in minutes:                2.575833333
+Simulated Time in hours:                  0.04293055556
+
+Commutated lane changes:                  27
+Commutated seen vehicles:                 36372
+Vehicle average in simulation:            11.76706567
+Time between lane changes                 5.724074074
+Time between lane changes per vehicle:    67.35555556
+%%%%%%%%%%%%%%%%%%%%%%%% MAXIMUM %%%%%%%%%%%%%%%%%%%%%%%%%%
+MAXIMUM run result: 
+Computation time in seconds:              3108
+Computation steps:                        17280000
+Computation time in nanoseconds/step:     179869.2898
+
+Simulated kilometers:                     14877.04137
+Simulated Time in minutes:                14400
+Simulated Time in hours:                  240
+
+Commutated lane changes:                  176470
+Commutated seen vehicles:                 205462437
+Vehicle average in simulation:            11.89018733
+Time between lane changes                 4.89601632
+Time between lane changes per vehicle:    58.2145512
+%%%%%%%%%%%%%%%%%%%%%%%% DEVIATION %%%%%%%%%%%%%%%%%%%%%%%%%
+DEVIATION of run result: 
+Computation time in seconds:              0
+Computation steps:                        4415071.003
+Computation time in nanoseconds/step:     0
+
+Simulated kilometers:                     3794.528538
+Simulated Time in minutes:                3679.225836
+Simulated Time in hours:                  61.3204306
+
+Commutated lane changes:                  44566.89737
+Commutated seen vehicles:                 52499977.59
+Vehicle average in simulation:            11.89108342
+Time between lane changes                 4.953307571
+Time between lane changes per vehicle:    58.90019352
+%%%%%%%%%%%%%%%%%%%%%%%% AVERAGE %%%%%%%%%%%%%%%%%%%%%%%%%%
+AVERAGE of run results: 
+Computation time in seconds:              1643
+Computation steps:                        5504719.68
+Computation time in nanoseconds/step:     298509.8209
+
+Simulated kilometers:                     4730.298635
+Simulated Time in minutes:                4587.2664
+Simulated Time in hours:                  76.45444
+
+Commutated lane changes:                  55484.68
+Commutated seen vehicles:                 65453801.32
+Vehicle average in simulation:            11.89048764
+Time between lane changes                 4.960576217
+Time between lane changes per vehicle:    58.9836702
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
