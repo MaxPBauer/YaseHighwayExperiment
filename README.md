@@ -5,7 +5,7 @@ The dataset contains the results of the 1200 test runs.
 Hereby the traffic agent densities and advisory speed limits were varied.  
 
 ### Test run metrics
-For each test run a animalistic evaluation file documents basic metrics such as the computation time, traveled distance, time duration and more.
+For each test run a minimalistic evaluation file documents basic metrics such as the computation time, traveled distance, time duration and more.
 ### Collision gifs
 If a collision occurred while a test run, the simulation was stopped and an additional minimalistic GIF was created.
 This GIF allows to get a rough estimation of the collision type without given away the simulator specific details.
